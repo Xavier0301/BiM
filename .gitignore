@@ -1,0 +1,17 @@
+# Editor files
+.vscode/
+
+# Binaries
+bin/
+
+# Dataset
+data/
+
+# Container
+.devcontainer/
+
+# Misc
+.metals/
+
+# Scripts
+update-lib.sh
